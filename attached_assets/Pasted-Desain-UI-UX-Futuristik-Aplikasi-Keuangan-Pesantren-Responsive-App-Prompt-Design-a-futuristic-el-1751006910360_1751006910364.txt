@@ -1,0 +1,133 @@
+Desain UI/UX Futuristik Aplikasi Keuangan Pesantren (Responsive App)
+Prompt:
+Design a futuristic, elegant, and responsive financial management application for a boarding school (pesantren) that ensures transparency, ease of access, and fast financial checking. The application must be accessible via all devices (mobile, tablet, laptop) and support a centralized cloud database (not local storage). Use a dark theme by default with blue-purple or green-cyan gradients, hover glow effects, smooth transitions, and modern typography.
+
+📱 General UI/UX Guidelines:
+Platform: Progressive Web App (PWA) / hybrid
+
+Default theme: Dark with glowing neon-style accents
+
+Layout:
+
+Sidebar navigation for desktop
+
+Bottom tab bar for mobile
+
+Responsive UI with fluid grid system
+
+Use modern fonts: Poppins, Inter, or Sora
+
+Animation: smooth hover, pop-up modal transitions, loading spinners
+
+Use icons with subtle Lottie animations (for add, delete, edit)
+
+🧭 Navigation Tabs:
+🏠 Dashboard: Overview of balance, income, expenses, and active projects with bar/line graphs and an announcement slider
+
+📁 Transactions:
+
+Tabs: All, Income, Expenses, Projects
+
+Features: filter, search, date picker, category tags, export CSV/PDF
+
+➕ Add Transaction (Floating Action Button): opens a glowing modal form with type selector (income/expense), category dropdown, amount, and notes
+
+📊 Reports:
+
+Monthly & yearly reports
+
+Graphs per category and source
+
+Downloadable PDF
+
+⚙️ Settings:
+
+App theme switcher (dark/light)
+
+Manage pondok identity (logo, address)
+
+Backup/restore data to cloud
+
+👤 User Management (Admin only):
+
+Create/reset accounts
+
+Role-based access control (read-only/edit)
+
+Toggle active/inactive users
+
+🔐 Login Page:
+Modern login form with glowing input fields
+
+Email/username + password
+
+Forgot password link
+
+Background: blurred glassmorphism with subtle quote at bottom (e.g., Islamic finance wisdom)
+
+Role-based login redirect (admin/bendahara/pengurus)
+
+📊 Dashboard Layout:
+Top Cards:
+
+Total Balance
+
+Income this month
+
+Expenses this month
+
+Graphs Section:
+
+Line or bar chart: income vs expenses
+
+Filter by month/year
+
+Info Slider:
+
+Announcements, alerts, deadlines
+
+🧾 Add Transaction Modal:
+Transaction type toggle (income/expense)
+
+Date picker
+
+Amount input with validation
+
+Category dropdown (editable)
+
+Description text area
+
+Source (donor, bank, internal)
+
+Glow-bordered modal with icon animation
+
+🗃️ Table Design (Transaction List):
+Sticky headers
+
+Hover glow effect on row
+
+Filters: by date, category, source
+
+Search bar
+
+Category tag with color codes
+
+Export button (CSV, PDF)
+
+📥 Reports Page:
+Select month & year (calendar slider)
+
+Visual graphs + summary
+
+Download report as PDF
+
+Hover cards with breakdowns per category/source
+
+⚙️ Settings & User:
+Profile page with photo + role tag
+
+Toggle app theme
+
+Set cloud sync settings
+
+Admin-only: manage users and their roles
